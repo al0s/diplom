@@ -1,4 +1,4 @@
-# TAKING-IDENTITY-INFORMATION-WITH-CAMERA-BY-USING-TENSORFLOW-AND-OPENCV
+# Identity Check With Image Processing
 Hi everybody!
 
 I decided to develop a project about taking identity information from ID cards.
