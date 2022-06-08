@@ -120,9 +120,7 @@ Here, you can see the examples from steps of the programme.
 
 1- Detected object(driving licence) can be seen in the video below:
 
-https://www.youtube.com/watch?v=vlDgagjFBIc
-https://youtu.be/vlDgagjFBIc
-
+[![Watch the video](https://img.youtube.com/vi/vlDgagjFBIc/maxresdefault.jpg)](https://youtu.be/vlDgagjFBIc)
 
 <h2>For Errors and Help</h2>
 
